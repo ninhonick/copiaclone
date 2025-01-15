@@ -6,6 +6,7 @@ p{
     font-family: courier new;
     color:rgb(14, 7, 112);
      text-align: justify;
+     font-size: 20px;
 
 }
 
@@ -25,7 +26,7 @@ p{
 }
 
 h1{
-    color: blue;
+    color: #663662 ;
     font-family: montserrat;
     font-size: 54px;
     font-weight: 700;
@@ -66,6 +67,23 @@ span{
     display: flex;
     flex-direction: row;
     gap: 1.5rem;
-    color:#d46d84;
+    color: #663662;
 }
 
+.curiosidades{
+    font-family: teko;
+    color:rgb(14, 7, 112);
+     text-align: justify;
+     font-size: 20px;
+
+}
+
+.infor{
+    font-family: Courier;
+    font-size: 20px;
+}
+
+.parte-final{
+    background-color: rgb(171, 152, 189);
+    
+}
