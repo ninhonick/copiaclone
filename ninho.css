@@ -11,7 +11,7 @@ p{
 }
 
 
-.parte-1{
+.parte-edit{
     background-color: rgb(186, 173, 198);
 
     display: flex;
@@ -83,7 +83,24 @@ span{
     font-size: 20px;
 }
 
+.img-parte-1{
+    max-width: 150%;
+    column-count: 4;
+    column-gap: 1rem;
+    margin: -1rem;
+
+    padding: 0rem 2rem;
+    margin: auto;
+
+    overflow:clip ;
+
+}
+
+
+
+
 .parte-final{
     background-color: rgb(171, 152, 189);
-    
+    font-size: 60%;
 }
+
