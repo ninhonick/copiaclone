@@ -1,5 +1,5 @@
 body {
-    background-color: blueviolet;
+    background-color: rgb(182, 169, 194);
 }
 
 p{
@@ -9,8 +9,63 @@ p{
 
 }
 
-span{
+
+.parte-1{
+    background-color: rgb(186, 173, 198);
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+
+    padding: 0rem 2rem;
+    margin: auto;
+
+    overflow: clip;
+}
+
+h1{
     color: blue;
-    text-align: center;
+    font-family: montserrat;
+    font-size: 54px;
+    font-weight: 700;
+}
+
+footer{
+    padding: 4rem;
+    display: 16px;
+    flex-direction: column;
+    align-items: center;
+    gap: 0.5rem;
+}
+
+.footer-1{
+    font-family:inter ;
+    font-size: 14px;
+    font-weight: 500;
+}
+span{
+    color: white;
+}
+.logo{
+    font-family: teko;
+    font-size: 16px;
+    font-weight: 600;
+    text-transform: uppercase;
+    background-image: linear-gradient(to top, #F29AAD, black,#D99CA9);
+}
+
+.subtitulo{
+    color: #e7079d;
+   font-size: 20px;
+   font-style: normal;
+   font-weight: 400;
+}
+
+.links{
+    display: flex;
+    flex-direction: row;
+    gap: 1.5rem;
+    color:#d46d84;
 }
 
