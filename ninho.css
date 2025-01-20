@@ -4,7 +4,7 @@ body {
 
 p{
     font-family: courier new;
-    color:rgb(14, 7, 112);
+    color:#9c3992;
      text-align: justify;
      font-size: 20px;
 
@@ -31,6 +31,7 @@ h1{
     font-size: 54px;
     font-weight: 700;
 }
+
 
 footer{
     padding: 4rem;
@@ -124,6 +125,10 @@ img{
   .texto{
     text-align: center;
   padding: 10px 20px;
+  }
+
+  h2{
+    color: #663662;
   }
 
 .parte-final{
