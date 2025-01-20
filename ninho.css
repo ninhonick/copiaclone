@@ -45,6 +45,12 @@ footer{
     font-size: 14px;
     font-weight: 500;
 }
+
+.footer-2{
+    font-family:inter ;
+    font-size: 14px;
+    font-weight: 500;
+}
 span{
     color: white;
 }
@@ -96,8 +102,29 @@ span{
 
 }
 
+img{
+   
+    border: 1px solid #000000;
+    border-radius: 4px;
+    padding: 5px;
+    width: 150px;
+    margin: 0;
 
+    max-width: 100%;
+    height: auto;
+     
+}
 
+.img-parte-1 {
+
+    width: 36%;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  }
+  
+  .texto{
+    text-align: center;
+  padding: 10px 20px;
+  }
 
 .parte-final{
     background-color: rgb(171, 152, 189);
